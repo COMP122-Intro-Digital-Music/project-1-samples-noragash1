@@ -1,1 +1,26 @@
-[ ]
+
+[
+  {
+    "name": "Synth 0",
+    "type": "Synth",
+    "settings": {
+      "volume": "-6",
+      "detune": "-2",
+      "portamento": "0.3",
+      "envelope": {
+        "attack": "0.05",
+        "attackCurve": "linear",
+        "decay": "0.08",
+        "decayCurve": "exponential",
+        "release": "1.02",
+        "releaseCurve": "exponential",
+        "sustain": "0.33"
+      },
+      "oscillator": {
+        "partialCount": "4",
+        "phase": 0,
+        "type": "triangle4"
+      }
+    }
+  }
+]
