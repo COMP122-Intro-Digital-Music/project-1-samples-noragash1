@@ -1,1 +1,6 @@
-[ ]
+[ {
+    "name": "Sample 1",
+    "file": "samples 1/Users/noragashi/Downloads/Sample 1.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }]
