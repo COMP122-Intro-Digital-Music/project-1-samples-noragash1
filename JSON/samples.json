@@ -3,4 +3,17 @@
     "file": "samples 1/Users/noragashi/Downloads/Sample 1.mp3",
     "bpm": "120",
     "loop": "1m"
-  }]
+  }
+  {
+    "name": "Sample 2",
+    "file": "samples 2/Users/noragashi/Downloads/Sample 2.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+  {
+    "name": "Sample 3",
+    "file": "samples//Users/noragashi/Downloads/Sample 3.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
